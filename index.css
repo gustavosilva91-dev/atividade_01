@@ -1,0 +1,38 @@
+nav{
+    margin: 23px;
+    
+    a{
+        color: #0000ff;
+        border-color: black;
+        border-style: groove;
+        padding-inline: calc(22px);
+        height: 63px;
+        width: 24px;
+        size: 60px;
+        margin-bottom: 100px;
+        
+
+    }
+}
+
+.Projeto{
+    display: inline-block;
+    border-style: groove;
+    size: 300px;
+    height: 200px;
+    width: 200px;
+    
+}
+
+span{
+    
+    border-color: black;
+    border-style: groove;
+    
+    height: 22px;
+}
+
+footer{
+    border-style: groove;
+    border-color:black ;
+}
